@@ -1,4 +1,4 @@
-tg_bot/config.py
+Buddy/config.py
 *.pyc
 .idea/
 .project
